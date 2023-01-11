@@ -1,8 +1,0 @@
-JWT
-On login / sign up, send client JWT for authorization. Every other api request will need to have that token in the Authorization Bearer _token_ header
-On every api request, generate and send a new token to the client.
-
-JWT body : {
-  user_id: {user_id}
-  exp: 3673421 {new Date(exp_in_seconds * 1000)}
-}
