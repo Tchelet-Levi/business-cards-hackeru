@@ -36,10 +36,10 @@ I have learned many things while working on the project, and admittedly, I shoul
 
 ### How to use:
 
-**Warning: You must have mongodb installed on your machine for this project to work.**
+**Warning: You must have [mongodb](https://www.mongodb.com/docs/manual/installation/) installed on your machine for this project to work.**
 
-1. First, cd into both client and server and run npm install on everything.
+1. First, `cd` into both client and server and run `npm install` on everything.
 
-2. Once the dependencies are all downloaded, cd into client and run npm build.
+2. Once the dependencies are all downloaded, `cd` into client and run `npm build`.
 
-3. Then finally, cd into server and run npm start.
+3. Then finally, `cd` into server and run `npm start`.
